@@ -11,8 +11,14 @@
     "event-stream": "3.0.2"
   },
   "scripts": {
+    "start": "node .",
     "test": "tap test"
   },
   "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "return random last names.",
+  "bugs": {
+    "url": "https://github.com/dominictarr/random-name/issues"
+  },
+  "main": "index.js"
 }
